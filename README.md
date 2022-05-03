@@ -1,6 +1,6 @@
 Employers are required to report any serious work-related injuries and death to the authority. This information helps employers, workers and the authority to evaluate the safety of a workplace, understand industry hazards, and implement worker protections to reduce and eliminate hazards.
 
-Perform text mining on the accident reports to help find answers to the following questions:
+Perform text mining on the accident reports to help find answers to the questions:
 1.	What are the major types of accidents reflected in the reports?
     * No labels, supervised or non-supervised?
     * Clustering or Topic modelling?
